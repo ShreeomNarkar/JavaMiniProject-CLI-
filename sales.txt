@@ -1,0 +1,27 @@
+----- Ticket Receipt -----
+Name: Alfiza
+Phone: 542543
+Boat Type: Sightseeing Motor Boat
+Seats Booked: 4
+Timing: 7pm to 8pm
+Total Cost: Rs. 280.0
+--------------------------
+
+----- Ticket Receipt -----
+Name: Shree
+Phone: 1
+Boat Type: Pedal Boat
+Seats Booked: 1
+Timing: 5pm to 6pm
+Total Cost: Rs. 70.0
+--------------------------
+
+----- Ticket Receipt -----
+Name: Shreya
+Phone: 8790342567
+Boat Type: Sightseeing Motor Boat
+Seats Booked: 4
+Timing: 7pm to 8pm
+Total Cost: Rs. 280.0
+--------------------------
+
